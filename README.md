@@ -24,6 +24,16 @@
 
 ---
 
+## Badges / Demos
+- Report PDF: reports/YULU-case-study.pdf
+  
+---
+
+## Contact
+ENIYAN D — umayalini64@gmail.com
+LinkedIn - www.linkedin.com/in/tamil-eniyan-
+
+
 ## How to run locally
 ```bash
 git clone https://github.com/<your-username>/yulu-case-study.git

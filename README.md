@@ -29,6 +29,10 @@
   
 ---
 
+## Launch Notebook in Binder
+[![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eniyand/yulu-case-study/main?urlpath=lab)
+
+---
 ## Contact
 ENIYAN D — umayalini64@gmail.com
 LinkedIn - www.linkedin.com/in/tamil-eniyan-
